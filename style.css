@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+#myCanvas {
+  margin: 20px 100px;
+  border: 5px solid #000;
+  width: 400;
+  height: 500;
+}
