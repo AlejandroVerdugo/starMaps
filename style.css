@@ -6,8 +6,6 @@
 }
 
 #myCanvas {
-  margin: 20px 100px;
-  border: 5px solid #000;
   width: 400;
   height: 500;
 }
